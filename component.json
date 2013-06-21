@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "brighthas/validator": "*"
+    "nashibao/validator": "*"
   },
   "development": {},
   "license": "MIT",
