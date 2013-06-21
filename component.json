@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-validator",
+  "repo": "nashibao/mongoose-validator",
+  "description": "mongoose-validator for component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "brighthas/validator": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "lib/mongoose-validator.js"
+  ]
+}
