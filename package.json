@@ -18,7 +18,7 @@
       "url": "https://github.com/cesconix/"
     }
   ],
-  "main": "./lib/mongoose-validator",
+  "main": "index.js",
   "homepage": "http://github.com/leepowellcouk/mongoose-validator",
   "repository": {
     "type": "git",

@@ -9,8 +9,8 @@
   },
   "development": {},
   "license": "MIT",
-  "main": "lib/mongoose-validator.js",
+  "main": "index.js",
   "scripts": [
-    "lib/mongoose-validator.js"
+    "index.js"
   ]
 }
