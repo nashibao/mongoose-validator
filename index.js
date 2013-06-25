@@ -44,9 +44,6 @@ Validator.extend = function (name, fn, msg) {
 Validator.localization = function(locale) {
     validator.localization(locale);
     defaultError = validator.defaultError;
-    console.log(defaultError);
 }
-
-Validator.defaultError = defaultError;
 
 module.exports = Validator;
