@@ -41,5 +41,10 @@ Validator.extend = function (name, fn, msg) {
     Object.getPrototypeOf(Validator)[name] = fn;
 }
 
+Validator.localization = function(locale) {
+    validator.localization(locale);
+    defaultError = validator.defaultError;
+}
+
 
 module.exports = Validator;
